@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Machine_learning.iml" filepath="$PROJECT_DIR$/.idea/Machine_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/machineLearning1.iml" filepath="$PROJECT_DIR$/.idea/machineLearning1.iml" />
     </modules>
   </component>
 </project>
